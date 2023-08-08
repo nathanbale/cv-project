@@ -1,0 +1,174 @@
+ body{
+   position: relative;
+   width: 595px;
+   height: 842px;
+ }
+ 
+ .header{
+   height: 7px;
+   width: 750px;
+   background-color: #005889;   
+    }
+
+   .name {
+      font-family: sans-serif;
+      margin: 29px 48px 4px ;
+
+    }
+
+    .mobile {
+      font-family: sans-serif;
+      margin-left: 73px;
+      margin-top: 6px;
+      margin-bottom: 4px;
+      font-weight: 400;
+    }
+
+    .email{
+      font-family: sans-serif;
+      margin: 6px 48px 10px 73px;
+      font-weight: 600;
+    }
+    .name span {
+      color: #005889;
+    }
+    .email span {
+      color: #005889;
+   }
+
+   .objective {
+      font-family: sans-serif;
+      margin: 15px 48px 4px 48px;
+      color: #005889;
+
+   }
+
+
+  .sub-objective h5{
+         font-family: sans-serif;
+         margin-left: 73px;
+         margin-top: 6px;
+         margin-bottom: 5px;
+         font-weight: 400;
+      
+      }
+      .experience {
+         font-family: sans-serif;
+         margin: 10px 48px 5px 48px;
+         color: #005889;
+      }
+
+      .date{
+         font-family: sans-serif;
+         margin: 5px 48px 5px 65px;
+        
+      }
+
+      .position {
+         font-family: sans-serif;
+         margin-left: 73px;
+         margin-top: 6px;
+         margin-bottom: 4px;
+         font-weight: 600;
+      }
+      .position span{
+         color: #005889;
+      }
+
+      .education{
+         font-family: sans-serif;
+      margin: 10px 48px 4px 48px;
+      color: #005889;
+      }
+
+      .ed-content h5{
+         font-family: sans-serif;
+         margin: 5px 48px 5px 65px;
+         font-weight: 600;
+      }
+
+      .ed-content {
+         display: flex;
+         flex-direction: column;
+      }
+
+      .education-container, .education-container2{
+         margin-bottom: 6px;
+      }
+
+
+
+      .education-container span, .education-container2 span,.education-container3 span {
+         color: #005889;
+
+      }
+
+      .skills-h3 span{
+         
+         font-family: sans-serif;
+         margin: 5px 168px 11px  48px ;
+         color: #005889;
+      }
+      .row {
+         display: flex;
+         justify-content: space-around;
+
+      }
+
+      .row h3{
+         margin-left: 65px;
+         margin-top: 5px;
+      }
+      .row h6{
+         font-weight: 400;
+         margin: 5px 24px 5px 85px;
+         
+      }
+
+      
+      .skills-container h3,h6{
+         font-family: sans-serif;
+
+      }
+
+    .volunteering h3 {
+      font-family: sans-serif;
+      margin: 29px 48px 4px ;
+      color: #005889;
+
+    }
+
+    .volunteering h5{
+      margin: 5px 24px 5px 73px;
+      font-family: sans-serif;
+    }
+    .about {
+      font-weight: 400;
+      margin-left: 10px;
+    }
+
+    .achievements h3{
+      font-family: sans-serif;
+      margin: 29px 48px 4px ;
+      color: #005889;
+
+    }
+
+    .achievements h5{
+      font-family: sans-serif;
+
+      margin: 5px 24px 5px 73px;
+
+    }
+    .last-weight {
+      font-weight: 400;
+    }
+    
+    
+
+     
+     
+      
+     
+    
+      
